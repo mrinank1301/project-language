@@ -36,7 +36,7 @@ This project focuses on developing a tool that translates spoken English into In
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Hackthon-5.0.git
+   git clone https://github.com/mrinank1301/project-language.git
 
 2. Install required packages:
    
