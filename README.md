@@ -1,4 +1,3 @@
-Readme overview in Website: https://sai-prashanth123.github.io/Hackathon-5.0/
 
 # Indian Sign Language Translation Project 
 
@@ -6,10 +5,9 @@ Readme overview in Website: https://sai-prashanth123.github.io/Hackathon-5.0/
 This project focuses on developing a tool that translates spoken English into Indian Sign Language (ISL) using real-time speech recognition and text-to-sign language conversion. The application captures audio from a microphone, transcribes it to text, and then converts the text to sign language animations or letter-by-letter images.
 
 ## Author
-**Name:** Sai Prashanth  
-**Email:** saip00519@gmail.com  
-**LinkedIn:** [Sai Prashanth](https://www.linkedin.com/in/sai-prashanth-18a916284)  
-**GitHub:** [Sai Prashanth12](https://github.com/Sai-Prashanth12)
+**Name:** Mrinank Kavuri  
+**Email:** mrinank1318@gmail.com
+**LinkedIn:** [Mrinank Kavuri](www.linkedin.com/in/mrinank-kavuri)  
 
 ## Project Details
 
