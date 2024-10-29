@@ -40,5 +40,7 @@ This project focuses on developing a tool that translates spoken English into In
 
 2. Install required packages:
    
-  ` pip install numpy matplotlib pillow speechrecognition`
+  ``` 
+  pip install numpy matplotlib pillow speechrecognition
+  ```
 
